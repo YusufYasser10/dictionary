@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YusufYasser10/dictionary.git/static/css/main.09107b6f.css",
+    "main.js": "/YusufYasser10/dictionary.git/static/js/main.7a68a1c9.js",
+    "static/media/icomoon.svg?d57frq": "/YusufYasser10/dictionary.git/static/media/icomoon.7266cdb65617090b5c4c.svg",
+    "static/media/icomoon.eot?d57frq": "/YusufYasser10/dictionary.git/static/media/icomoon.e8ec4aa8755da8430aee.eot",
+    "static/media/icomoon.woff?d57frq": "/YusufYasser10/dictionary.git/static/media/icomoon.937b1ac30e5429a675a4.woff",
+    "static/media/icomoon.ttf?d57frq": "/YusufYasser10/dictionary.git/static/media/icomoon.dc603ef9a4b73d893beb.ttf",
+    "index.html": "/YusufYasser10/dictionary.git/index.html",
+    "main.09107b6f.css.map": "/YusufYasser10/dictionary.git/static/css/main.09107b6f.css.map",
+    "main.7a68a1c9.js.map": "/YusufYasser10/dictionary.git/static/js/main.7a68a1c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09107b6f.css",
+    "static/js/main.7a68a1c9.js"
+  ]
+}
